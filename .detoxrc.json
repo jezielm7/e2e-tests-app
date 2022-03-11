@@ -10,5 +10,8 @@
         "avdName": "Emulator"
       }
     }
+  },
+  "artifacts": {
+    "rootDir": "./e2e/snapshots"
   }
 }
